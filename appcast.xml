@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sovereign</title>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Mon, 16 Mar 2026 09:42:18 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/amrezo/SovereignMacOSDownload/releases/download/prod/Sovereign.dmg" length="17858507" type="application/octet-stream" sparkle:edSignature="KSTEd2QXwPacTo5YwWiBBM8rR70uV3rrtlxaJKQCxG1TJJrAqDPRjimjzCcR0L0dAbRX1kZvfQQOSEgT77SnAg=="/>
+        </item>
+    </channel>
+</rss>
