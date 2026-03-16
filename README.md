@@ -1,0 +1,2 @@
+# SovereignMacOSDownload
+Sovereign macOS App
