@@ -4,6 +4,45 @@
         <title>Sovereign</title>
         <item>
             <title>1.0.0</title>
+            <description><![CDATA[
+<h2>Sovereign 1.0</h2>
+<p>Sovereign now adapts to the work you do. Tell it your profession and specialty, and the AI, templates, quick actions and privacy settings follow.</p>
+<h3>Made for your profession</h3>
+<ul>
+<li><b>An AI that knows your field.</b> Answers follow the standards and safeguards of your profession, for example flagging risk in therapy notes, never inventing case law, marking medical codes to verify, and always naming the tax year.</li>
+<li><b>Quick actions.</b> Start a new chat with one click: "Progress note from session", "Review a contract", "Reconcile figures", "Differential diagnosis" and more.</li>
+<li><b>96 new templates.</b> Three for every specialty (couples session notes, RFE responses, operative notes, variance analyses…). All existing templates have been rewritten to be clearer.</li>
+<li><b>Change your profession anytime</b> in Settings › General › Your work.</li>
+</ul>
+<h3>Get more done from a chat</h3>
+<ul>
+<li><b>Recordings to notes.</b> Attach a session recording and turn it into a progress note, SOAP note or meeting summary in one click.</li>
+<li><b>Save as note.</b> Keep any reply in your workspace notes.</li>
+<li><b>Add tasks.</b> Sovereign finds the action items and due dates in a reply, and you choose which to add.</li>
+<li><b>Smarter documents.</b> The AI now reads the parts of your documents most relevant to your question, and it can read Word files (.docx and .doc).</li>
+</ul>
+<h3>Privacy</h3>
+<ul>
+<li><b>Hide personal details.</b> Before anything goes to the AI, Sovereign can hide names, addresses, phone numbers, dates of birth, record numbers, case numbers, account and card numbers, and tax IDs. This covers your messages, earlier messages, notes, documents, files and transcripts. Replies show the real details on your Mac. It's on by default for therapists and physicians; change it in Settings › Privacy &amp; Security.</li>
+<li>Your chats and files are still saved only on your Mac.</li>
+</ul>
+<h3>Faster, more capable AI</h3>
+<ul>
+<li>Sovereign now uses OpenAI's newer GPT-6.1 Terra model for chat, with zero data retention.</li>
+</ul>
+<h3>A cleaner, simpler app</h3>
+<ul>
+<li>Every screen has been redesigned with clearer labels, icons and plain language.</li>
+<li>Settings is now organized into simple pages: General, Privacy &amp; Security, AI Context, Memory, Private Notes, Saved Memories, and Help &amp; Legal.</li>
+<li>Friendlier empty screens, simpler confirmations, and tooltips on every button.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>"Try again" now keeps the template you were using.</li>
+<li>Large attachments are no longer sent twice, and your message is no longer sent twice behind the scenes, so answers come back faster.</li>
+</ul>
+<p>Requires macOS 15.0 or later.</p>
+            ]]></description>
             <pubDate>Mon, 23 Nov 2026 03:39:03 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
